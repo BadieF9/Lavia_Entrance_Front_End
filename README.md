@@ -1,4 +1,4 @@
-This is a simple otp login form which was Lavia company Entrance task.
+This is a simple OTP login form which was a task for the Lavia company's entrance.
 
 ## Getting Started
 
